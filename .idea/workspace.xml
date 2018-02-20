@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03921bc9-18ed-4a68-bbef-4bdb04a727f8" name="Default" comment="Test by shijith">
+    <list default="true" id="03921bc9-18ed-4a68-bbef-4bdb04a727f8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2422,7 +2422,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146495845" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146605199" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2470,7 +2470,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146495845" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146605199" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2653,7 +2653,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146495848" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519146605204" />
       </method>
     </configuration>
     <list size="1">
@@ -2783,7 +2783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519146401350</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Test by shijith3">
+      <created>1519146515066</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1519146515066</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2875,7 +2882,8 @@
     <MESSAGE value="third time" />
     <MESSAGE value="Test by shijith" />
     <MESSAGE value="Test by shijith_splashscreen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test by shijith_splashscreen" />
+    <MESSAGE value="Test by shijith3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test by shijith3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
