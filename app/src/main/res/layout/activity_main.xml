@@ -4,25 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="@android:color/black"
     tools:context="com.example.sebinvincent.invento_18.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="MAIN ACTIVITY!"
-        android:id="@+id/activity"
-        android:textSize="40sp"
-        android:gravity="center"
-        />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/mainactivity"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="118dp"
-        android:text="B" />
-
-
+    <pl.droidsonroids.gif.GifTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sample"
+        android:gravity="center" />
 </RelativeLayout>
